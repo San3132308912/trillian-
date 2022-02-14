@@ -7,7 +7,7 @@ require (
 	cloud.google.com/go/spanner v1.23.0
 	contrib.go.opencensus.io/exporter/stackdriver v0.13.8
 	github.com/apache/beam v2.31.0+incompatible
-	github.com/fullstorydev/grpcurl v1.8.1
+	github.com/fullstorydev/grpcurl v1.8.6
 	github.com/go-redis/redis v6.15.9+incompatible
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
@@ -33,7 +33,7 @@ require (
 	golang.org/x/tools v0.1.5
 	google.golang.org/api v0.50.0
 	google.golang.org/genproto v0.0.0-20210707141755-0f065b0b1eb9
-	google.golang.org/grpc v1.39.0
+	google.golang.org/grpc v1.44.0
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.1.0
 	google.golang.org/protobuf v1.27.1
 )
