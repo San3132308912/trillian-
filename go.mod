@@ -27,10 +27,10 @@ require (
 	go.etcd.io/etcd/server/v3 v3.5.0
 	go.etcd.io/etcd/v3 v3.5.0
 	go.opencensus.io v0.23.0
-	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210616094352-59db8d763f22
-	golang.org/x/tools v0.1.5
+	golang.org/x/sys v0.0.0-20211019181941-9d821ace8654
+	golang.org/x/tools v0.1.11
 	google.golang.org/api v0.50.0
 	google.golang.org/genproto v0.0.0-20210707141755-0f065b0b1eb9
 	google.golang.org/grpc v1.39.0
